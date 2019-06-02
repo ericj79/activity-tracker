@@ -1,0 +1,24 @@
+{
+    "name": "activity-tracker",
+    "version": "1.0.0",
+    "description": "Spreadsheet tools for tracking who is doing what",
+    "main": "triggers.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ericj79/activity-tracker.git"
+    },
+    "author": "ericj79",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ericj79/activity-tracker/issues"
+    },
+    "homepage": "https://github.com/ericj79/activity-tracker#readme",
+    "dependencies": {
+        "@types/google-apps-script": "0.0.53",
+        "tslint": "^5.17.0",
+        "typescript": "^3.5.1"
+    }
+}
